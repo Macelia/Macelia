@@ -6,8 +6,8 @@ Passionate about building clean, modern, and responsive websites.
 ---
 
 ## 🚀 About Me  
-- 🎓 Computer Science student with a love for creativity & design  
-- 🌱 Currently learning **JavaScript** and exploring **React**  
+- 🎓 Currently a Data engineer with a love for data & databases  
+- 🌱 Currently exploring **JavaScript** and  **React**  
 - 🎨 Interested in UI/UX and modern web design  
 - 🌍 Languages: **French**, **English**  
 
@@ -28,5 +28,5 @@ A modern personal portfolio built with **HTML, CSS & JavaScript**.
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/macelia)  
+[![LinkedIn](https://www.linkedin.com/in/macelia-saidoune-0245a4210)  
+[![GitHub](https://github.com/Macelia)  

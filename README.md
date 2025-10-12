@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Macelia Saidoune  
+# 👋 Hi, I'm Macelia SAIDOUNE  
 
 💻 **Front-end Developer | Designer | Portfolio Creator**  
 Passionate about building clean, modern, and responsive websites.  

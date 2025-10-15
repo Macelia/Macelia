@@ -16,7 +16,7 @@ Passionate about building clean, modern, and responsive websites.
 
 <!-- Email -->
 <a href="mailto:massiliasaidoune630@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40px"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40px" alt="Send me an email"/>
 </a>
 
 <!-- Telegram -->

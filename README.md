@@ -12,7 +12,7 @@ Passionate about building clean, modern, and responsive websites.
 - 🌍 Languages: **French**, **English**  
 
 ---
-### 📫 contact Me
+### 📫 Contact Me
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/TON-NOM/">
@@ -25,17 +25,17 @@ Passionate about building clean, modern, and responsive websites.
 </a>
 
 <!-- Telegram -->
-<a href="https://t.me/TON_USERNAME">
+<a href="https://t.me/Maceliaa">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40px"/>
 </a>
 
 <!-- Email -->
-<a href="mailto:TON_EMAIL@gmail.com">
+<a href="mailto:massiliasaidoune630@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40px"/>
 </a>
 
 <!-- WhatsApp -->
-<a href="https://wa.me/TON_NUMERO">
+<a href="https://wa.me/0666335263">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40px"/>
 </a>
 ---

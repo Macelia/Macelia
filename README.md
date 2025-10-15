@@ -12,7 +12,7 @@ Passionate about building clean, modern, and responsive websites.
 - 🌍 Languages: **French**, **English**  
 
 ---
-### 📫 Me contacter
+### 📫 contact Me
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/TON-NOM/">

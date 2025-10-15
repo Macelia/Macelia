@@ -14,14 +14,9 @@ Passionate about building clean, modern, and responsive websites.
 ---
 ### 📫 Contact Me
 
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/TON-NOM/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px"/>
-</a>
-
-<!-- Facebook -->
-<a href="https://www.facebook.com/TON.PROFIL/">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40px"/>
+<!-- Email -->
+<a href="mailto:massiliasaidoune630@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40px"/>
 </a>
 
 <!-- Telegram -->
@@ -29,14 +24,14 @@ Passionate about building clean, modern, and responsive websites.
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40px"/>
 </a>
 
-<!-- Email -->
-<a href="mailto:massiliasaidoune630@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40px"/>
-</a>
-
 <!-- WhatsApp -->
 <a href="https://wa.me/213666335263?text= you're Welcome">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40px"/>
+</a>
+
+<!-- Facebook -->
+<a href="https://www.facebook.com/massilia.monalisa/">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40px"/>
 </a>
 
 

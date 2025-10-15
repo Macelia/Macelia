@@ -12,6 +12,33 @@ Passionate about building clean, modern, and responsive websites.
 - 🌍 Languages: **French**, **English**  
 
 ---
+### 📫 Me contacter
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/TON-NOM/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px"/>
+</a>
+
+<!-- Facebook -->
+<a href="https://www.facebook.com/TON.PROFIL/">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40px"/>
+</a>
+
+<!-- Telegram -->
+<a href="https://t.me/TON_USERNAME">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40px"/>
+</a>
+
+<!-- Email -->
+<a href="mailto:TON_EMAIL@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40px"/>
+</a>
+
+<!-- WhatsApp -->
+<a href="https://wa.me/TON_NUMERO">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40px"/>
+</a>
+---
 
 ## 🛠️ Tech Stack  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  

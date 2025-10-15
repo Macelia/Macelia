@@ -35,7 +35,7 @@ Passionate about building clean, modern, and responsive websites.
 </a>
 
 <!-- WhatsApp -->
-<a href="https://wa.me/0666335263">
+<a href="https://wa.me/+213 666 33 52 63">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40px"/>
 </a>
 ---
